@@ -6,6 +6,12 @@ body {
   text-align: center;
 }
 
+.login-title {
+  color: #4e6580;
+  font-family: 'Segoe UI', sans-serif;
+  margin-bottom: 16px;
+}
+
 .hidden {
   display: none;
 }
